@@ -1,0 +1,30 @@
+{
+    "name": "MicroBlog - Réseau Social",
+    "short_name": "MicroBlog",
+    "description": "Application de réseau social avec partage de posts et d'images",
+    "theme_color": "#1da1f2",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "microblog-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "microblog-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "microblog-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ]
+  }
+  
+  
